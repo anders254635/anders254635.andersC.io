@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>build</key>
+				<string>4813</string>
+				<key>partialData</key>
+				<data>
+				YnBsaXN0MDDUAQIDBAUGJSZYJHZlcnNpb25YJG9iamVj
+				dHNZJGFyY2hpdmVyVCR0b3ASAAGGoKcHCA0UGB0hVSRu
+				dWxs0gkKCwxaTlMub2JqZWN0c1YkY2xhc3OggALSDg8Q
+				EVokY2xhc3NuYW1lWCRjbGFzc2VzXE5TTXV0YWJsZVNl
+				dKMQEhNVTlNTZXRYTlNPYmplY3TSFQoWF1lyZXNvdXJj
+				ZXOABIAG0xkJChobHFdOUy5rZXlzoKCABdIODx4fXxAT
+				TlNNdXRhYmxlRGljdGlvbmFyeaMeIBNcTlNEaWN0aW9u
+				YXJ50g4PIiNfEBNZSFNpdGVJbWFnZVJlc29sdmVyoiQT
+				XxATWUhTaXRlSW1hZ2VSZXNvbHZlcl8QD05TS2V5ZWRB
+				cmNoaXZlctInKCkqWHJlc29sdmVyWHBhcnRpYWxzgAOA
+				AQAIABEAGgAjAC0AMgA3AD8ARQBKAFUAXABdAF8AZABv
+				AHgAhQCJAI8AmACdAKcAqQCrALIAugC7ALwAvgDDANkA
+				3QDqAO8BBQEIAR4BMAE1AT4BRwFJAAAAAAAAAgEAAAAA
+				AAAAKwAAAAAAAAAAAAAAAAAAAUs=
+				</data>
+				<key>version</key>
+				<string>4.0.4</string>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>com.yourhead.stacksDocument</string>
+</dict>
+</plist>
