@@ -59,6 +59,17 @@
 						<key>storedInsideDocument</key>
 						<true/>
 					</dict>
+					<key>BA611CBA-A813-4B72-AAF7-31140A56C392</key>
+					<dict>
+						<key>fileName</key>
+						<string>office.jpeg</string>
+						<key>identifier</key>
+						<string>BA611CBA-A813-4B72-AAF7-31140A56C392</string>
+						<key>lastResolvablePath</key>
+						<string>/var/folders/zl/6lqkbpdn1_32tplr9gfq6j880000gn/T/com.realmacsoftware.rapidweaver8/com.realmacsoftware.rapidweaver8-18413/aXj8jp/office.jpeg</string>
+						<key>storedInsideDocument</key>
+						<true/>
+					</dict>
 					<key>C5F3729D-8B17-419E-9232-196B34003C9E</key>
 					<dict>
 						<key>fileName</key>
@@ -84,106 +95,82 @@
 				</dict>
 				<key>Site Resources</key>
 				<data>
-				YnBsaXN0MDDUAQIDBAUG7u9YJHZlcnNpb25YJG9iamVj
-				dHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QQAcIERIcHR4h
-				KDJFRkdITE9TV1hcZ2hpam1xcn1+f4CDh4iTlJWWmZ2e
-				qaqrrK+ztL/AwcLFycrV1tfY3uHk6OxVJG51bGzTCQoL
-				DA4QV05TLmtleXNaTlMub2JqZWN0c1YkY2xhc3OhDYAC
-				oQ+AA4A/VG5vZGXVExQVFgsXGBkaG1ROYW1lVWl0ZW1z
-				WmlkZW50aWZpZXJYY2hpbGRyZW6ABYAIgASABoA+XxAk
-				REI4NDZBNEItQkM1Ny00NEUxLThFRjQtQUY1M0I3RjNC
-				NUU3XxAPVW50aXRsZWQgRm9sZGVy0goLHyCggAfSIiMk
-				JVokY2xhc3NuYW1lWCRjbGFzc2VzXk5TTXV0YWJsZUFy
-				cmF5oyQmJ1dOU0FycmF5WE5TT2JqZWN00goLKSCnKiss
-				LS4vMIAJgBOAGoAhgCiAL4A2gAfaMzQLNTY3Ezg5Ojs8
-				PT4+QEFCQ0ReUmVtb3RlUmVzb3VyY2VbT3JpZ2luYWxV
-				UkxcUHVibGlzaGVkVVJMXVB1Ymxpc2hlZERhdGVfEA9D
-				aGFuZ2VkU3RhdHVzZXNaSWRlbnRpZmllcllUaW1lU3Rh
-				bXBZRmlsZVRva2VuCIARgBKAAIAAgA+AC4AKgA2ADF8Q
-				JDk5M0VCRDI0LThCNEItNDk3Qy05MDUyLUVGRUFCRDY0
-				QjNFNl8QF0FuZGVycyBDaHJpc3RlbnNzb24uanBnXxAk
-				MDg0MEJFRTYtMUIzQS00RDY2LUJBNDQtQjVENDg0MUQ1
-				MDZC0kkLSktXTlMudGltZSNBwaGgDIAAAIAO0iIjTU5W
-				TlNEYXRlok0n0wkKC1BRUqCggBDSIiNUVV8QE05TTXV0
-				YWJsZURpY3Rpb25hcnmjVFYnXE5TRGljdGlvbmFyeV8Q
-				VS9Vc2Vycy9hbmRlcnMvRG9jdW1lbnRzL1NpZ21hL0Jp
-				bGRlci9BbmRlcnMgQ2hyaXN0ZW5zc29uLzIwMTcvQW5k
-				ZXJzIENocmlzdGVuc3Nvbi5qcGfSIiNZWl5SV1NpdGVS
-				ZXNvdXJjZaJbJ15SV1NpdGVSZXNvdXJjZdozNAs1NjcT
-				ODk6O149Pj5iY2RlZgiAGYASgACAAIAYgBWAFIAXgBZf
-				ECQ2QUNBRDM0RC0xNUQzLTQ4NTgtQTFGNi02OEI4RUJE
-				MTJDM0ZvECQAQQBuAGQAZQByAHMAIABDAGgAcgBpAHMA
-				dABlAG4AcwBzAG8AbgAgAFMAcABlAGcAZQBsAHYAYQMI
-				AG4AZAAuAGoAcABlAGdfECQ0MjdDMkI3Qi0xMUVCLTQ4
-				NTQtOTdDOS0yQ0IyQTVFMjY2NULSSQtrSyNBwpcWPQAA
-				AIAO0wkKC25vUqCggBBvEGIALwBVAHMAZQByAHMALwBh
-				AG4AZABlAHIAcwAvAEQAbwBjAHUAbQBlAG4AdABzAC8A
-				UwBpAGcAbQBhAC8AQgBpAGwAZABlAHIALwBBAG4AZABl
-				AHIAcwAgAEMAaAByAGkAcwB0AGUAbgBzAHMAbwBuAC8A
-				MgAwADEANwAvAEEAbgBkAGUAcgBzACAAQwBoAHIAaQBz
-				AHQAZQBuAHMAcwBvAG4AIABTAHAAZQBnAGUAbAB2AGED
-				CABuAGQALgBqAHAAZQBn2jM0CzU2NxM4OTo7dD0+Pnh5
-				ent8CIAggBKAAIAAgB+AHIAbgB6AHV8QJEU5MzQzRUFF
-				LUU3MUQtNDVFRi04NkQzLTk0QkJCQkM2NTMzN18QI0Fu
-				ZGVycyBDaHJpc3RlbnNzb24gQjp3IFNwZWdlbC5qcGVn
-				XxAkNjBDMjdFNUUtQjc5Ny00RThELUIzRDYtMDA4QzlF
-				MjgwNTQz0kkLgUsjQcKXFx4AAACADtMJCguEhVKgoIAQ
-				XxBhL1VzZXJzL2FuZGVycy9Eb2N1bWVudHMvU2lnbWEv
-				QmlsZGVyL0FuZGVycyBDaHJpc3RlbnNzb24vMjAxNy9B
-				bmRlcnMgQ2hyaXN0ZW5zc29uIEI6dyBTcGVnZWwuanBl
-				Z9ozNAs1NjcTODk6O4o9Pj6Oj5CRkgiAJ4ASgACAAIAm
-				gCOAIoAlgCRfECRERTYxQTYwMy0xNzRFLTQwMEItOTNB
-				OC1DNEFEMDFFRDJCMzFfECtBbmRlcnMgQ2hyaXN0ZW5z
-				c29uIEI6dyBTcGVnZWwgc21hbGxlci5qcGVnXxAkQzVG
-				MzcyOUQtOEIxNy00MTlFLTkyMzItMTk2QjM0MDAzQzlF
-				0kkLl0sjQcKXF5SAAACADtMJCguam1KgoIAQXxBDL1Vz
-				ZXJzL2FuZGVycy9Eb3dubG9hZHMvQW5kZXJzIENocmlz
-				dGVuc3NvbiBCOncgU3BlZ2VsIHNtYWxsZXIuanBlZ9oz
-				NAs1NjcTODk6O6A9Pj6kpaanqAiALoASgACAAIAtgCqA
-				KYAsgCtfECQ0RTg4N0VCNy1DMDU2LTQ1NTAtQTkwNS1G
-				QTc3NzBCNzE4N0NfECNBbmRlcnMgQ2hyaXN0ZW5zc29u
-				IEI6dyBTcGVnZWwuanBlZ18QJEVBNDYxQTQ4LTc1OTMt
-				NDU4MC04MUYxLTcwNDIxNDUyRTQxRdJJC61LI0HClxdX
-				gAAAgA7TCQoLsLFSoKCAEF8QYS9Vc2Vycy9hbmRlcnMv
-				RG9jdW1lbnRzL1NpZ21hL0JpbGRlci9BbmRlcnMgQ2hy
-				aXN0ZW5zc29uLzIwMTcvQW5kZXJzIENocmlzdGVuc3Nv
-				biBCOncgU3BlZ2VsLmpwZWfaMzQLNTY3Ezg5Oju2PT4+
-				uru8vb4IgDWAEoAAgACANIAxgDCAM4AyXxAkMUIxRkY5
-				OTAtRkVFRS00NkQ3LThCNTEtMzgyRTI2Mjk2Q0RFXxAr
-				QW5kZXJzIENocmlzdGVuc3NvbiBCOncgU3BlZ2VsIHNt
-				YWxsZXIuanBlZ18QJDRDN0VGNjJBLTRBRDQtNEQ2MS1C
-				MEJGLTUxODQ3RjgyODM0NdJJC8NLI0HClxg5AAAAgA7T
-				CQoLxsdSoKCAEF8QQy9Vc2Vycy9hbmRlcnMvRG93bmxv
-				YWRzL0FuZGVycyBDaHJpc3RlbnNzb24gQjp3IFNwZWdl
-				bCBzbWFsbGVyLmpwZWfaMzQLNTY3Ezg5Oss+Pc4+0NHS
-				09QJgACAEoA6gACAPYA4gDeAPIA5XxAkRkE1NUY1RTYt
-				MUU2QS00NkVELTkzOUEtOEM0NTVFRENCMEIxXxAkcGhv
-				dG8tMTUzMTk3MjExMTIzMS03NDgyYTk2MGUxMDkuanBn
-				XxCbaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bo
-				b3RvLTE1MzE5NzIxMTEyMzEtNzQ4MmE5NjBlMTA5P2l4
-				bGliPXJiLTEuMi4xJnE9ODAmZm09anBnJmNyb3A9ZW50
-				cm9weSZjcz10aW55c3JnYiZ3PTEwODAmZml0PW1heCZp
-				eGlkPWV5SmhjSEJmYVdRaU9qRXpNalE1ZlHT2QvaPtzU
-				V05TLmJhc2VbTlMucmVsYXRpdmWAAIA7gDnSIiPf4FVO
-				U1VSTKLfJ9JJC+JLI0HClxmBoHVogA7TCQoL5eZSoKCA
-				ENIiI+nqXFJXU2l0ZUZvbGRlcqLrJ1xSV1NpdGVGb2xk
-				ZXLSIiNW7aJWJ18QD05TS2V5ZWRBcmNoaXZlctHw8VRy
-				b290gAEACAARABoAIwAtADIANwB6AIAAhwCPAJoAoQCj
-				AKUApwCpAKsAsAC7AMAAxgDRANoA3ADeAOAA4gDkAQsB
-				HQEiASMBJQEqATUBPgFNAVEBWQFiAWcBbwFxAXMBdQF3
-				AXkBewF9AX8BlAGjAa8BvAHKAdwB5wHxAfsB/AH+AgAC
-				AgIEAgYCCAIKAgwCDgI1Ak8CdgJ7AoMCjAKOApMCmgKd
-				AqQCpQKmAqgCrQLDAscC1AMsAzEDQANDA1IDZwNoA2oD
-				bANuA3ADcgN0A3YDeAN6A6ED7AQTBBgEIQQjBCoEKwQs
-				BC4E9QUKBQsFDQUPBREFEwUVBRcFGQUbBR0FRAVqBZEF
-				lgWfBaEFqAWpBaoFrAYQBiUGJgYoBioGLAYuBjAGMgY0
-				BjYGOAZfBo0GtAa5BsIGxAbLBswGzQbPBxUHKgcrBy0H
-				LwcxBzMHNQc3BzkHOwc9B2QHigexB7YHvwfBB8gHyQfK
-				B8wIMAhFCEYISAhKCEwITghQCFIIVAhWCFgIfwitCNQI
-				2QjiCOQI6wjsCO0I7wk1CUoJSwlNCU8JUQlTCVUJVwlZ
-				CVsJXQmECasKSQpQClgKZApmCmgKagpvCnUKeAp9CoYK
-				iAqPCpAKkQqTCpgKpQqoCrUKugq9Cs8K0grXAAAAAAAA
-				AgEAAAAAAAAA8gAAAAAAAAAAAAAAAAAACtk=
+				YnBsaXN0MDDUAQIDBAUG4OFYJHZlcnNpb25YJG9iamVj
+				dHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QOQcIERIcHR4h
+				KDJFRkdITE9TV1tmZ2hpbHB7fH1+gYWQkZKTlpqlpqeo
+				q6+6u7y9wMTP0NHS1dna3lUkbnVsbNMJCgsMDhBXTlMu
+				a2V5c1pOUy5vYmplY3RzViRjbGFzc6ENgAKhD4ADgDhU
+				bm9kZdUTFBUWCxcYGRobVE5hbWVVaXRlbXNaaWRlbnRp
+				ZmllclhjaGlsZHJlboAFgAiABIAGgDdfECREQjg0NkE0
+				Qi1CQzU3LTQ0RTEtOEVGNC1BRjUzQjdGM0I1RTdfEA9V
+				bnRpdGxlZCBGb2xkZXLSCgsfIKCAB9IiIyQlWiRjbGFz
+				c25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjJCYn
+				V05TQXJyYXlYTlNPYmplY3TSCgspIKcqKywtLi8wgAmA
+				EoAYgB6AJIAqgDCAB9ozNAs1NjcTODk6Ozw9PDxAQUJD
+				RF5SZW1vdGVSZXNvdXJjZVtPcmlnaW5hbFVSTFxQdWJs
+				aXNoZWRVUkxdUHVibGlzaGVkRGF0ZV8QD0NoYW5nZWRT
+				dGF0dXNlc1pJZGVudGlmaWVyWVRpbWVTdGFtcFlGaWxl
+				VG9rZW4IgACAEYAAgACAD4ALgAqADYAMXxAkOTkzRUJE
+				MjQtOEI0Qi00OTdDLTkwNTItRUZFQUJENjRCM0U2XxAX
+				QW5kZXJzIENocmlzdGVuc3Nvbi5qcGdfECQwODQwQkVF
+				Ni0xQjNBLTRENjYtQkE0NC1CNUQ0ODQxRDUwNkLSSQtK
+				S1dOUy50aW1lI0HBoaAMgAAAgA7SIiNNTlZOU0RhdGWi
+				TSfTCQoLUFFSoKCAENIiI1RVXxATTlNNdXRhYmxlRGlj
+				dGlvbmFyeaNUVidcTlNEaWN0aW9uYXJ50iIjWFleUldT
+				aXRlUmVzb3VyY2WiWideUldTaXRlUmVzb3VyY2XaMzQL
+				NTY3Ezg5Ojs8PTw8YWJjZGUIgACAEYAAgACAF4AUgBOA
+				FoAVXxAkNkFDQUQzNEQtMTVEMy00ODU4LUExRjYtNjhC
+				OEVCRDEyQzNGbxAkAEEAbgBkAGUAcgBzACAAQwBoAHIA
+				aQBzAHQAZQBuAHMAcwBvAG4AIABTAHAAZQBnAGUAbAB2
+				AGEDCABuAGQALgBqAHAAZQBnXxAkNDI3QzJCN0ItMTFF
+				Qi00ODU0LTk3QzktMkNCMkE1RTI2NjVC0kkLaksjQcKX
+				Fj0AAACADtMJCgttblKgoIAQ2jM0CzU2NxM4OTo7PD08
+				PHZ3eHl6CIAAgBGAAIAAgB2AGoAZgByAG18QJEU5MzQz
+				RUFFLUU3MUQtNDVFRi04NkQzLTk0QkJCQkM2NTMzN18Q
+				I0FuZGVycyBDaHJpc3RlbnNzb24gQjp3IFNwZWdlbC5q
+				cGVnXxAkNjBDMjdFNUUtQjc5Ny00RThELUIzRDYtMDA4
+				QzlFMjgwNTQz0kkLf0sjQcKXFx4AAACADtMJCguCg1Kg
+				oIAQ2jM0CzU2NxM4OTo7PD08PIuMjY6PCIAAgBGAAIAA
+				gCOAIIAfgCKAIV8QJERFNjFBNjAzLTE3NEUtNDAwQi05
+				M0E4LUM0QUQwMUVEMkIzMV8QK0FuZGVycyBDaHJpc3Rl
+				bnNzb24gQjp3IFNwZWdlbCBzbWFsbGVyLmpwZWdfECRD
+				NUYzNzI5RC04QjE3LTQxOUUtOTIzMi0xOTZCMzQwMDND
+				OUXSSQuUSyNBwpcXlIAAAIAO0wkKC5eYUqCggBDaMzQL
+				NTY3Ezg5Ojs8PTw8oKGio6QIgACAEYAAgACAKYAmgCWA
+				KIAnXxAkNEU4ODdFQjctQzA1Ni00NTUwLUE5MDUtRkE3
+				NzcwQjcxODdDXxAjQW5kZXJzIENocmlzdGVuc3NvbiBC
+				OncgU3BlZ2VsLmpwZWdfECRFQTQ2MUE0OC03NTkzLTQ1
+				ODAtODFGMS03MDQyMTQ1MkU0MUXSSQupSyNBwpcXV4AA
+				AIAO0wkKC6ytUqCggBDaMzQLNTY3Ezg5Ojs8PTw8tba3
+				uLkIgACAEYAAgACAL4AsgCuALoAtXxAkMUIxRkY5OTAt
+				RkVFRS00NkQ3LThCNTEtMzgyRTI2Mjk2Q0RFXxArQW5k
+				ZXJzIENocmlzdGVuc3NvbiBCOncgU3BlZ2VsIHNtYWxs
+				ZXIuanBlZ18QJDRDN0VGNjJBLTRBRDQtNEQ2MS1CMEJG
+				LTUxODQ3RjgyODM0NdJJC75LI0HClxg5AAAAgA7TCQoL
+				wcJSoKCAENozNAs1NjcTODk6O8Y9PDzKy8zNzgiANoAR
+				gACAAIA1gDKAMYA0gDNfECQ2MDJGNTA5RC1BQjVFLTRG
+				RUYtQTZFMy1CRTY2NEJGRjI5NDRbb2ZmaWNlLmpwZWdf
+				ECRCQTYxMUNCQS1BODEzLTRCNzItQUFGNy0zMTE0MEE1
+				NkMzOTLSSQvTSyNBwpdmHYAAAIAO0wkKC9bXUqCggBBf
+				ECMvVXNlcnMvYW5kZXJzL0Rvd25sb2Fkcy9vZmZpY2Uu
+				anBlZ9IiI9vcXFJXU2l0ZUZvbGRlcqLdJ1xSV1NpdGVG
+				b2xkZXLSIiNW36JWJ18QD05TS2V5ZWRBcmNoaXZlctHi
+				41Ryb290gAEACAARABoAIwAtADIANwBzAHkAgACIAJMA
+				mgCcAJ4AoACiAKQAqQC0ALkAvwDKANMA1QDXANkA2wDd
+				AQQBFgEbARwBHgEjAS4BNwFGAUoBUgFbAWABaAFqAWwB
+				bgFwAXIBdAF2AXgBjQGcAagBtQHDAdUB4AHqAfQB9QH3
+				AfkB+wH9Af8CAQIDAgUCBwIuAkgCbwJ0AnwChQKHAowC
+				kwKWAp0CngKfAqECpgK8AsACzQLSAuEC5ALzAwgDCQML
+				Aw0DDwMRAxMDFQMXAxkDGwNCA40DtAO5A8IDxAPLA8wD
+				zQPPA+QD5QPnA+kD6wPtA+8D8QPzA/UD9wQeBEQEawRw
+				BHkEewSCBIMEhASGBJsEnASeBKAEogSkBKYEqASqBKwE
+				rgTVBQMFKgUvBTgFOgVBBUIFQwVFBVoFWwVdBV8FYQVj
+				BWUFZwVpBWsFbQWUBboF4QXmBe8F8QX4BfkF+gX8BhEG
+				EgYUBhYGGAYaBhwGHgYgBiIGJAZLBnkGoAalBq4GsAa3
+				BrgGuQa7BtAG0QbTBtUG1wbZBtsG3QbfBuEG4wcKBxYH
+				PQdCB0sHTQdUB1UHVgdYB34HgweQB5MHoAelB6gHuge9
+				B8IAAAAAAAACAQAAAAAAAADkAAAAAAAAAAAAAAAAAAAH
+				xA==
 				</data>
 				<key>SiteAttributes</key>
 				<dict>
@@ -192,7 +179,7 @@
 					<key>AnonymiseThirdPartyRequests</key>
 					<false/>
 					<key>BannerIdentifier</key>
-					<string>FA55F5E6-1E6A-46ED-939A-8C455EDCB0B1</string>
+					<string>602F509D-AB5E-4FEF-A6E3-BE664BFF2944</string>
 					<key>ConsolidateCSSFiles</key>
 					<true/>
 					<key>ConsolidateCommonFilesMode</key>
@@ -228,11 +215,48 @@
 					<key>PrivacyMessageDismissButtonTitle</key>
 					<string>Dismiss</string>
 					<key>PublishingDestinations</key>
-					<array/>
+					<array>
+						<dict>
+							<key>anonymous</key>
+							<false/>
+							<key>automaticallyConfigured</key>
+							<false/>
+							<key>backupFrequency</key>
+							<integer>0</integer>
+							<key>connectionMode</key>
+							<integer>0</integer>
+							<key>enablePublicKeyAuthentication</key>
+							<false/>
+							<key>hasPublishedContent</key>
+							<false/>
+							<key>ignoreCertificateErrors</key>
+							<false/>
+							<key>label</key>
+							<string>Untitled Destination</string>
+							<key>maxConnections</key>
+							<integer>6</integer>
+							<key>path</key>
+							<string></string>
+							<key>server</key>
+							<string>s3.amazonaws.com</string>
+							<key>serverConfigurationVersions</key>
+							<array/>
+							<key>type</key>
+							<integer>4</integer>
+							<key>useSSLOption</key>
+							<integer>2</integer>
+							<key>user</key>
+							<string></string>
+							<key>websiteAddress</key>
+							<string></string>
+						</dict>
+					</array>
 					<key>PublishingSettingsConfigured</key>
 					<false/>
 					<key>RememberPrivacyMessageDismissed</key>
 					<false/>
+					<key>SelectedPublishingDestinationIndex</key>
+					<integer>0</integer>
 					<key>SettingsPlugins</key>
 					<array/>
 					<key>ShowBreadcrumbTrail</key>

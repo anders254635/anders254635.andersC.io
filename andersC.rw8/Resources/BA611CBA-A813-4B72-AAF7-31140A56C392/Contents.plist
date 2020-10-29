@@ -8,21 +8,14 @@
 	<array>
 		<dict>
 			<key>Dictionary</key>
-			<dict>
-				<key>HomePage</key>
-				<string>1-Hem</string>
-			</dict>
+			<dict/>
 			<key>Files</key>
 			<array/>
 			<key>Subsandwiches</key>
-			<array>
-				<string>1-Hem</string>
-				<string>2-Experience</string>
-				<string>3-Education</string>
-			</array>
+			<array/>
 		</dict>
 	</array>
 	<key>Type</key>
-	<string>Pages</string>
+	<string>Resource</string>
 </dict>
 </plist>
