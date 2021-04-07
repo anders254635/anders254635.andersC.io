@@ -10,32 +10,33 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>CreatedDate</key>
-				<date>2020-10-07T16:59:27Z</date>
+				<date>2021-02-22T07:40:37Z</date>
 				<key>ID</key>
-				<string>page2</string>
+				<string>page3</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>Experience</string>
+				<string>Certifications</string>
 				<key>PluginClassName</key>
-				<string>YHStacksPlugin</string>
+				<string>RWStyledPlugin</string>
 				<key>PluginMetadata</key>
 				<dict>
 					<key>Author</key>
-					<string>YourHead Software</string>
+					<string>Realmac Software</string>
 					<key>Name</key>
-					<string>Stacks</string>
+					<string>Styled Text</string>
 					<key>Version</key>
-					<string>4.1.4</string>
+					<string>7.0</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict/>
 			</dict>
 			<key>Files</key>
-			<array/>
+			<array>
+				<string>Data.archive</string>
+			</array>
 			<key>Subsandwiches</key>
 			<array>
-				<string>Data</string>
 				<string>PageAttributes</string>
 			</array>
 		</dict>
